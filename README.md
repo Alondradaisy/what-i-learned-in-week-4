@@ -74,9 +74,13 @@ _Methods_ are a special kind of property that is a function and does not take an
 -> .yell();
 
 const yelledName = firstName.toUpperCase();
+
 yelledNamed; COLIN JAFFE
+
 const quietName = firstName.toLowerCase();
+
 quietName; colin jaffe
+
 firstName; colin jaffe
 
 
